@@ -1,0 +1,25 @@
+{
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bn.js": "^5.1.0",
+    "@types/chai": "^4.3.0",
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^20.8.2",
+    "chai": "^4.3.4",
+    "mocha": "^9.0.3",
+    "prettier": "3.2.4",
+    "ts-mocha": "^10.0.0",
+    "typescript": "^4.3.5"
+  },
+  "name": "ataut",
+  "author": "IssacMayert",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OraCartwright/ataut.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OraCartwright/ataut.git/issues"
+  },
+  "homepage": "https://github.com/OraCartwright/ataut.git",
+  "version": "1.0.0"
+}
